@@ -3,6 +3,8 @@ ruby '2.1.2'
 #ruby-gemset=railstutorial_rails_4_1
 
 gem 'rails', '4.1.4'
+gem 'bootstrap-sass', '3.2.0.1'
+gem 'sprockets', '2.11.0'
 gem 'pg', '0.17.1'
 
 group :development, :test do
